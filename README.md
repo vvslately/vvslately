@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VVS</h1>
 <h3 align="center">nothing</h3>
 
-- 🔭 I’m currently working on [vhouse](https://vvs.vhouse.online/)
+- 🔭 I’m currently working on [vhouse](https://discord.gg/5HcPjpJJxJ)
 
 - 📄 Know about my experiences [theylovevvs](https://instagram.com/weloveyou_vvv)
 
