@@ -5,12 +5,6 @@
 
 - 📄 Know about my experiences [theylovevvs](https://instagram.com/weloveyou_vvv)
 
-<style>
-img {
-  margin-left:20px;
-}
-</style>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
