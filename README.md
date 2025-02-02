@@ -5,6 +5,11 @@
 
 - 📄 Know about my experiences [theylovevvs](https://instagram.com/weloveyou_vvv)
 
+<style>
+img {
+  margin-left:20px;
+}
+</style>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
