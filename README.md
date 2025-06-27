@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Music+Producer;Open+Source+Contributor;Always+Learning+New+Tech)
 
 </div>
 
@@ -16,11 +16,13 @@ const vvs = {
     pronouns: "he/him",
     location: "Thailand 🇹🇭",
     currentFocus: "Building amazing web experiences",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    musicAlias: "vvslately 🎵",
+    funFact: "I debug with console.log and make beats in my free time! 😄"
 };
 ```
 
 - 🔭 Currently working on **[vhouse](https://discord.gg/5HcPjpJJxJ)** - *An exciting new project!*
+- 🎵 Follow my music journey on **[vvslately](https://instagram.com/vvslately)** - *My latest tracks & beats!*
 - 🌱 Learning **Advanced React Patterns** and **System Design**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, UI/UX Design**
@@ -112,6 +114,7 @@ const vvs = {
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/weloveyou_vvv)
+[![Music Instagram](https://img.shields.io/badge/Music_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vvslately)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5HcPjpJJxJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
